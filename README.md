@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, i am Muzammil</h1>
-<h3 align="center">Your Profession</h3>
+<h3 align="center">Laravel Developer</h3>
 
-- 👨‍💻 My Portfolio add soon
+- 👨‍💻 My Portfolio will be added soon
 
 - 💬 Ask me about **PHP Laravel**
 
