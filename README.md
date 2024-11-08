@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, i am Muzammil</h1>
+<h1 align="center">Hi 👋, i am Muzammal</h1>
 <h3 align="center">Laravel Developer</h3>
 
 - 👨‍💻 My Portfolio will be added soon
