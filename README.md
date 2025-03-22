@@ -37,7 +37,7 @@ Here are some projects:
 
 Let's connect and chat about technology, projects, or anything else!
 
-- [LinkedIn](https://www.linkedin.com/in/muzammil-arain/)
+- [LinkedIn](https://www.linkedin.com/in/muzammal-ubedullah/)
 - [Twitter](https://twitter.com/intent/follow?screen_name=muzi_crypto)
 
 Thank you for visiting my profile, and feel free to reach out if you'd like to collaborate on a project or just have a chat!
