@@ -26,9 +26,9 @@ Here are some of the technologies and tools I work with:
 - **Frameworks and Libraries:** Laravel, Reactjs, Bootstrap, jQuery
 - **Tools and Platforms:** Git, MySQL, Visual Studio Code
 
-## Projects
+## Open Source Packages
 
-Here are some projects:
+Here are some open source packages:
 
 - [SyncModelFillable](https://github.com/Muzammal01/syncmodelfillable) - A Laravel package that automatically syncs a model's $fillable fields with its corresponding database migration columns by using a simple Artisan command.
 - [SyncEnvVariables](https://github.com/Muzammal01/SyncEnvVariables) - SyncEnvVariables is a Laravel package that automates syncing environment variables from .env.example to .env. Ideal for team projects, it ensures consistent environment settings with a single Artisan command, appending any missing variables to .env.
